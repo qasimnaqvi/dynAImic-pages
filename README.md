@@ -12,5 +12,10 @@ Click the image below to launch the pitch deck walkthrough
 
 [![PLAY ME](https://github.com/qasimnaqvi/dynAImic-pages/assets/11540356/113ffe68-eed0-4c11-9655-0371af451fd5)](https://www.youtube.com/watch?v=XJDvRysWgFg)
 
+# Demo:
+
+You can watch the proof of concept here:
+https://youtu.be/4vVi39VnsWg 
+
 # Contributors:
 Qasim Naqvi, Ally Carey, Nox Voortella, and Andrei Zimin 
