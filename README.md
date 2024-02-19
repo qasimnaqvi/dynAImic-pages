@@ -7,4 +7,13 @@ We propose an innovative product that leverages Artificial Intelligence (AI) and
 The project will employ Generative AI to modify variables and utilize AI/ML algorithms to optimize and analyze performance data, providing actionable insights for enhanced user engagement and business outcomes.
 
 # Pitch Deck:
-https://www.youtube.com/watch?v=XJDvRysWgFg
+
+Click the image below to launch the pitch deck walkthrough
+
+[![PLAY ME](https://github.com/qasimnaqvi/dynAImic-pages/assets/11540356/113ffe68-eed0-4c11-9655-0371af451fd5)](https://www.youtube.com/watch?v=XJDvRysWgFg)
+
+# Contributors:
+Qasim Naqvi,
+Ally Carey,
+Nox Voortella,
+Andrei Zimin 
